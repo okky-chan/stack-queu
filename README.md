@@ -1,1 +1,1 @@
-# stack-queu
+# stack-queue
